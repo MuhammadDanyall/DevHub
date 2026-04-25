@@ -1,0 +1,235 @@
+﻿node.exe : [31mΓ£ù[39m 
+Build failed in 3.13s
+At line:1 char:1
++ & "D:\node js/node.exe" 
+"D:\node js/node_modules/n
+pm/bin/npx-cli.js"  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo        
+      : NotSpecified: (  
+  [31mΓ£ù[39m Build fa   
+ iled in 3.13s:String)    
+ [], RemoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 
+[31merror during build:
+[31mBuild failed with 3 
+errors:
+
+[31m[MISSING_EXPORT] 
+Error:[0m "Twitter" is 
+not exported by "node_modu
+les/lucide-react/dist/esm/
+lucide-react.js".
+   [38;5;246mΓò¡[0m[38;
+5;246mΓöÇ[0m[38;5;246m[
+[0m src/components/Footer.
+jsx:1:18 [38;5;246m][0m
+   [38;5;246mΓöé[0m
+ [38;5;246m1 Γöé[0m [38
+;5;249mi[0m[38;5;249mm[
+0m[38;5;249mp[0m[38;5;2
+49mo[0m[38;5;249mr[0m[
+38;5;249mt[0m[38;5;249m 
+[0m[38;5;249m{[0m[38;5
+;249m [0m[38;5;249mR[0m
+[38;5;249mo[0m[38;5;249
+mc[0m[38;5;249mk[0m[38
+;5;249me[0m[38;5;249mt[
+0m[38;5;249m,[0m[38;5;2
+49m [0mTwitter[38;5;249m
+,[0m[38;5;249m [0m[38;
+5;249mL[0m[38;5;249mi[0
+m[38;5;249mn[0m[38;5;24
+9mk[0m[38;5;249me[0m[3
+8;5;249md[0m[38;5;249mi
+[0m[38;5;249mn[0m[38;5;
+249m,[0m[38;5;249m [0m
+[38;5;249mG[0m[38;5;249m
+i[0m[38;5;249mt[0m[38;
+5;249mh[0m[38;5;249mu[0
+m[38;5;249mb[0m[38;5;24
+9m [0m[38;5;249m}[0m[3
+8;5;249m [0m[38;5;249mf
+[0m[38;5;249mr[0m[38;5;
+249mo[0m[38;5;249mm[0m
+[38;5;249m [0m[38;5;249m
+"[0m[38;5;249ml[0m[38;
+5;249mu[0m[38;5;249mc[0
+m[38;5;249mi[0m[38;5;24
+9md[0m[38;5;249me[0m[3
+8;5;249m-[0m[38;5;249mr
+[0m[38;5;249me[0m[38;5;
+249ma[0m[38;5;249mc[0m
+[38;5;249mt[0m[38;5;249m
+"[0m[38;5;249m;[0m
+ [38;5;240m  Γöé[0m     
+             
+ΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇΓöÇ  
+ [38;5;240m  Γöé[0m     
+                
+Γò░ΓöÇΓöÇΓöÇΓöÇΓöÇ 
+Missing export
+[38;5;246mΓöÇΓöÇΓöÇΓò»[0
+m
+
+[31m[MISSING_EXPORT] 
+Error:[0m "Linkedin" is 
+not exported by "node_modu
+les/lucide-react/dist/esm/
+lucide-react.js".
+   [38;5;246mΓò¡[0m[38;
+5;246mΓöÇ[0m[38;5;246m[
+[0m src/components/Footer.
+jsx:1:27 [38;5;246m][0m
+   [38;5;246mΓöé[0m
+ [38;5;246m1 Γöé[0m [38
+;5;249mi[0m[38;5;249mm[
+0m[38;5;249mp[0m[38;5;2
+49mo[0m[38;5;249mr[0m[
+38;5;249mt[0m[38;5;249m 
+[0m[38;5;249m{[0m[38;5
+;249m [0m[38;5;249mR[0m
+[38;5;249mo[0m[38;5;249
+mc[0m[38;5;249mk[0m[38
+;5;249me[0m[38;5;249mt[
+0m[38;5;249m,[0m[38;5;2
+49m [0m[38;5;249mT[0m[
+38;5;249mw[0m[38;5;249mi
+[0m[38;5;249mt[0m[38;5
+;249mt[0m[38;5;249me[0m
+[38;5;249mr[0m[38;5;249
+m,[0m[38;5;249m [0mLink
+edin[38;5;249m,[0m[38;5
+;249m [0m[38;5;249mG[0m
+[38;5;249mi[0m[38;5;249
+mt[0m[38;5;249mh[0m[38
+;5;249mu[0m[38;5;249mb[
+0m[38;5;249m [0m[38;5;2
+49m}[0m[38;5;249m [0m[
+38;5;249mf[0m[38;5;249mr
+[0m[38;5;249mo[0m[38;5
+;249mm[0m[38;5;249m [0m
+[38;5;249m"[0m[38;5;249
+ml[0m[38;5;249mu[0m[38
+;5;249mc[0m[38;5;249mi[
+0m[38;5;249md[0m[38;5;2
+49me[0m[38;5;249m-[0m[
+38;5;249mr[0m[38;5;249me
+[0m[38;5;249ma[0m[38;5
+;249mc[0m[38;5;249mt[0m
+[38;5;249m"[0m[38;5;249
+m;[0m
+ [38;5;240m  Γöé[0m     
+                      
+ΓöÇΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇΓöÇ  
+ [38;5;240m  Γöé[0m     
+                          
+Γò░ΓöÇΓöÇΓöÇΓöÇΓöÇ 
+Missing export
+[38;5;246mΓöÇΓöÇΓöÇΓò»[0
+m
+
+[31m[MISSING_EXPORT] 
+Error:[0m "Github" is 
+not exported by "node_modu
+les/lucide-react/dist/esm/
+lucide-react.js".
+   [38;5;246mΓò¡[0m[38;
+5;246mΓöÇ[0m[38;5;246m[
+[0m src/components/Footer.
+jsx:1:37 [38;5;246m][0m
+   [38;5;246mΓöé[0m
+ [38;5;246m1 Γöé[0m [38
+;5;249mi[0m[38;5;249mm[
+0m[38;5;249mp[0m[38;5;2
+49mo[0m[38;5;249mr[0m[
+38;5;249mt[0m[38;5;249m 
+[0m[38;5;249m{[0m[38;5
+;249m [0m[38;5;249mR[0m
+[38;5;249mo[0m[38;5;249
+mc[0m[38;5;249mk[0m[38
+;5;249me[0m[38;5;249mt[
+0m[38;5;249m,[0m[38;5;2
+49m [0m[38;5;249mT[0m[
+38;5;249mw[0m[38;5;249mi
+[0m[38;5;249mt[0m[38;5
+;249mt[0m[38;5;249me[0m
+[38;5;249mr[0m[38;5;249
+m,[0m[38;5;249m [0m[38
+;5;249mL[0m[38;5;249mi[
+0m[38;5;249mn[0m[38;5;2
+49mk[0m[38;5;249me[0m[
+38;5;249md[0m[38;5;249mi
+[0m[38;5;249mn[0m[38;5
+;249m,[0m[38;5;249m 
+[0mGithub[38;5;249m [0m
+[38;5;249m}[0m[38;5;249
+m [0m[38;5;249mf[0m[38
+;5;249mr[0m[38;5;249mo[
+0m[38;5;249mm[0m[38;5;2
+49m [0m[38;5;249m"[0m[
+38;5;249ml[0m[38;5;249mu
+[0m[38;5;249mc[0m[38;5
+;249mi[0m[38;5;249md[0m
+[38;5;249me[0m[38;5;249
+m-[0m[38;5;249mr[0m[38
+;5;249me[0m[38;5;249ma[
+0m[38;5;249mc[0m[38;5;2
+49mt[0m[38;5;249m"[0m[
+38;5;249m;[0m
+ [38;5;240m  Γöé[0m     
+                          
+      ΓöÇΓöÇΓöÇΓö¼ΓöÇΓöÇ  
+ [38;5;240m  Γöé[0m     
+                          
+         Γò░ΓöÇΓöÇΓöÇΓöÇ 
+Missing export
+[38;5;246mΓöÇΓöÇΓöÇΓò»[0
+m
+[31m
+    at aggregateBindingErr
+orsIntoJsError (file:///D:
+/developer%20hub/frontend/
+node_modules/rolldown/dist
+/shared/error-DBGOT6sf.mjs
+:48:18)
+    at 
+unwrapBindingResult (file:
+///D:/developer%20hub/fron
+tend/node_modules/rolldown
+/dist/shared/error-DBGOT6s
+f.mjs:18:128)
+    at #build (file:///D:/
+developer%20hub/frontend/n
+ode_modules/rolldown/dist/
+shared/rolldown-build-hRnq
+gxyz.mjs:3313:34)
+    at async 
+buildEnvironment (file:///
+D:/developer%20hub/fronten
+d/node_modules/vite/dist/n
+ode/chunks/node.js:32954:6
+4)
+    at async Object.build 
+(file:///D:/developer%20hu
+b/frontend/node_modules/vi
+te/dist/node/chunks/node.j
+s:33376:19)
+    at async 
+Object.buildApp (file:///D
+:/developer%20hub/frontend
+/node_modules/vite/dist/no
+de/chunks/node.js:33373:15
+3)
+    at async 
+CAC.<anonymous> (file:///D
+:/developer%20hub/frontend
+/node_modules/vite/dist/no
+de/cli.js:778:3) {
+  errors: [Getter/Setter]
+}[39m
